@@ -29,6 +29,7 @@ public class CommentListAdapter extends ArrayAdapter<Comment> {
     public CommentListAdapter(@NonNull Context context, int resource, ArrayList<Comment> list) {
         super(context,resource,list);
         this.mContext = context;
+        //hello
 
     }
 
