@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home" android:title="Home" android:icon="@drawable/ic_home"></item>
+    <item android:id="@+id/search" android:title="Search" android:icon="@drawable/ic_search"></item>
+    <item android:id="@+id/camera" android:title="Camera" android:icon="@drawable/ic_camera"></item>
+    <item android:id="@+id/like" android:title="Like" android:icon="@drawable/ic_tag_faces"></item>
+<item android:id="@+id/profile" android:title="Profile" android:icon="@drawable/ic_account_circle"></item>
+    <item android:id="@+id/log_out" android:title="logout" android:icon="@drawable/ic_exit"></item>
+
+</menu>
