@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
         // getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         setSupportActionBar((Toolbar)findViewById(R.id.my_toolbar));
-        getSupportActionBar().setTitle("Instagram");
+        getSupportActionBar().setTitle("E-shop");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeAsUpIndicator(R.drawable.ic_home_menu);
 
